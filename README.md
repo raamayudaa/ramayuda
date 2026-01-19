@@ -10,7 +10,7 @@ only a collection of unnecessary words that fix absolutely nothing.
 
 ---
 
-## About This Repo
+## About This Report
 
 This repo exists because:
 - Writing in phone notes feels too personal  
