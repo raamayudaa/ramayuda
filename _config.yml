@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+title: "Unimportant Writings (Still Written Anyway)"
+description: "Personal writings, nothing more."
+
+theme: minima
+
+author: Ramayuda
+
+plugins:
+  - jekyll-feed
