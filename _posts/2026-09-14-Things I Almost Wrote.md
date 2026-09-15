@@ -6,7 +6,7 @@ date: 2026-09-12
 
 <iframe
   style="border-radius:12px"
-  src="https://open.spotify.com/intl-id/track/3ZffCQKLFLUvYM59XKLbVm?autoplay_ok=1"
+  src="https://open.spotify.com/embed/track/37f...?"
   width="100%"
   height="152"
   frameBorder="0"
