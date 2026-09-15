@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Things I Almost Wrote // 00!"
+title: "Things I Almost Wrote // 001"
 date: 2026-09-12
 ---
 
