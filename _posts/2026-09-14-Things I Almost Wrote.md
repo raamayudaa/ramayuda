@@ -15,9 +15,8 @@ date: 2026-09-12
   loading="lazy">
 </iframe>
 
-### Things I Almost Wrote
 
-“I wanted to tell you that—”
+“I wanted to tell you that”
 
 deleted.
 
@@ -27,4 +26,4 @@ a little too dramatic.
 
 “There are some mornings when—”
 
-never finished.
+enough.
